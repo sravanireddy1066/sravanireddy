@@ -10,6 +10,7 @@ public class MicroServicesRegistryApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(MicroServicesRegistryApplication.class, args);
-	}
+		System.out.println("");	
+		}
 
 }
